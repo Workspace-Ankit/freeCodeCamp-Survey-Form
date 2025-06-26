@@ -1,6 +1,6 @@
-# Registration Form
+# Survey Form
 
-This is a simple and responsive registration form built using HTML and CSS. It was created as a part of my front-end web development learning journey.
+This is a simple and responsive survey form built using HTML and CSS. It was created as a part of my front-end web development learning journey.
 
 ## Features
 
